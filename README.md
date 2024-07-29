@@ -1,4 +1,4 @@
-# message-app
+# Message-app
 
 
 This project is a full-stack messaging application built with React, Redux, Express, and TypeScript.
